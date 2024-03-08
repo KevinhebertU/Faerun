@@ -1,1 +1,0 @@
-The plot hook revolves around the sudden disappearance of [[Zephyr]], the Djinni patron, before [[Seraphina Valaris Virezi]]  can fulfill her third wish. This disappearance happens shortly after Seraphina makes her second wish for true love, leaving her in a state of confusion and uncertainty for many years as she grows up in Baldur’s Gate.

@@ -1,1 +1,0 @@
- Healers and holy warriors are being summoned to help with the [[Outbreak of a new illness]] within the city

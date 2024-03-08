@@ -1,1 +1,0 @@
-A mysterious benefactor has summoned you to the city to complete a job

@@ -1,1 +1,0 @@
-You are an outlaw on the run from your past, looking to hide within the big city
