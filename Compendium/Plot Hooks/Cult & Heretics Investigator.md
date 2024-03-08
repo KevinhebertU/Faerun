@@ -1,0 +1,1 @@
+Vedia left Waterdeep in search of something new and a place where she could establish a new reputation as an investigator, especially of cults or other heretics.

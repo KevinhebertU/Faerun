@@ -1,0 +1,24 @@
+List of templates and what they used for :
+- [[Templates/NPC]] 
+	- [x] Add a cult influence property ✅ 2024-02-27
+- [[Location]] 
+- [[Faction]]
+	- Group of individuls (NPCs and/or PCs)
+- [[Rallying point]] 
+	- Large catalyst event for an act, point of the story that will influence players or can be influenced by players
+- [[Quest ]]
+    We have multiple types of quest:
+	- Errands : Solo quest (1-on-1 with DM)
+	- Standard  : with multiple peoples and have more impact on the story
+	- Lore : Optional content that would reveal world lore
+	- Secondary : Content that is not directly related to the main story 
+- [[ Rollable table]]
+	- Insertable template with formatting for rollable table
+- [[Creature]]
+	- Description plus statblock
+- [[Item]]
+	- description  and images
+- [[Baldur's mouth]]
+	- Weekly journal
+- [[Lore Events]]
+	- Lore explantations to what is hapenning that can be used to link quest or other things  together

@@ -1,0 +1,1 @@
+[[Garmult's House of Mastery]]  just reopened their training ground and are looking for new recruits : [[Get in the [[Bannerless Legion]] ]]
