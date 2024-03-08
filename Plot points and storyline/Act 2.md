@@ -1,8 +1,0 @@
-- Access to the new continent unlocked. 
-- Magical barrior protects the continent, need a quest to access it. Hags have come in prior to players to go free [[Gwendolyn Grimsbane|Gwendolyn]] .
-- Magic Weave Table is introduced
-- Magical library on new continent for introduction to third hag. Portals working unlocked as a fast travel quest
-- Players start seeing the cult increase their efforts and influence
-- Players have ability to break people out of the cult, learn more about the hags motivations, have to deal with implications of the wave
-- Hags begin to drain the magic from the land. They grow in power
-- Introduction of new magic items. Guns, bees who cast fireball, dragons who work for Gwendolyn.**
